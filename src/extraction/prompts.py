@@ -46,4 +46,5 @@ RULES:
 6. Use style "dashed" only for feedback loops, history fetches, or async flows. Use "solid" otherwise.
 7. Default edge color is "#95A5A6" unless stated otherwise.
 8. Output ONLY the JSON object. No markdown fences, no commentary.
+9. Every node MUST have at least one edge connecting it to the rest of the graph. Isolated (unconnected) nodes are forbidden. If a node has no obvious connection, infer the most logical one.
 """
