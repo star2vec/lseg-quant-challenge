@@ -1,13 +1,12 @@
 # Natural Language to Architecture Diagram — QuantChallenge 2026
 
-<img width="2096" height="1580" alt="unnamed (2)" src="https://github.com/user-attachments/assets/1faad2c3-29aa-4155-9170-83716fae7c15" />
-
-
 An AI-powered web app that converts a plain-English system description into a fully interactive, production-quality architecture diagram — powered entirely by a local LLM (no cloud, no API keys).
 
-<img width="2100" height="1574" alt="unnamed (1)" src="https://github.com/user-attachments/assets/3dc0acb0-802c-4f47-b155-165d8e9b8eaa" />
-
-<img width="2110" height="1664" alt="unnamed" src="https://github.com/user-attachments/assets/8867eaf5-ad45-4d6c-9703-9f9117562e44" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1faad2c3-29aa-4155-9170-83716fae7c15" width="32%" alt="unnamed (2)" />
+  <img src="https://github.com/user-attachments/assets/3dc0acb0-802c-4f47-b155-165d8e9b8eaa" width="32%" alt="unnamed (1)" />
+  <img src="https://github.com/user-attachments/assets/8867eaf5-ad45-4d6c-9703-9f9117562e44" width="32%" alt="unnamed" />
+</p>
 
 ---
 
